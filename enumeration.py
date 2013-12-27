@@ -1,7 +1,6 @@
-#
 # enum-like type
 # From the Python Cookbook, downloaded from http://code.activestate.com/recipes/67107/
-#
+
 import types, string, exceptions
 
 class EnumException(exceptions.Exception):

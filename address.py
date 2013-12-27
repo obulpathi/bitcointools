@@ -1,8 +1,6 @@
-#
 # Code for parsing the addr.dat file
 # NOTE: I think you have to shutdown the Bitcoin client to
 # successfully read addr.dat...
-#
 
 from bsddb.db import *
 import logging

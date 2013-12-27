@@ -1,6 +1,4 @@
-#
 # Code for dumping a single transaction, given its ID
-#
 
 from bsddb.db import *
 import logging
